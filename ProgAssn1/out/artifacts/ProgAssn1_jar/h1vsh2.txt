@@ -1,0 +1,404 @@
+setState 183 564 27b
+solve a-star h1
+setState 183 564 27b
+solve a-star h2
+setState 462 738 15b
+solve a-star h1
+setState 462 738 15b
+solve a-star h2
+setState 271 5b8 643
+solve a-star h1
+setState 271 5b8 643
+solve a-star h2
+setState 783 5b4 621
+solve a-star h1
+setState 783 5b4 621
+solve a-star h2
+setState 83b 671 425
+solve a-star h1
+setState 83b 671 425
+solve a-star h2
+setState b73 142 658
+solve a-star h1
+setState b73 142 658
+solve a-star h2
+setState 276 584 b13
+solve a-star h1
+setState 276 584 b13
+solve a-star h2
+setState 823 176 b45
+solve a-star h1
+setState 823 176 b45
+solve a-star h2
+setState b45 367 128
+solve a-star h1
+setState b45 367 128
+solve a-star h2
+setState 231 678 45b
+solve a-star h1
+setState 231 678 45b
+solve a-star h2
+setState b27 431 865
+solve a-star h1
+setState b27 431 865
+solve a-star h2
+setState 753 624 b81
+solve a-star h1
+setState 753 624 b81
+solve a-star h2
+setState 657 4b3 812
+solve a-star h1
+setState 657 4b3 812
+solve a-star h2
+setState 68b 251 743
+solve a-star h1
+setState 68b 251 743
+solve a-star h2
+setState b58 762 341
+solve a-star h1
+setState b58 762 341
+solve a-star h2
+setState 541 783 26b
+solve a-star h1
+setState 541 783 26b
+solve a-star h2
+setState 685 273 b14
+solve a-star h1
+setState 685 273 b14
+solve a-star h2
+setState 56b 287 341
+solve a-star h1
+setState 56b 287 341
+solve a-star h2
+setState 37b 581 624
+solve a-star h1
+setState 37b 581 624
+solve a-star h2
+setState 731 425 b86
+solve a-star h1
+setState 731 425 b86
+solve a-star h2
+setState 824 315 76b
+solve a-star h1
+setState 824 315 76b
+solve a-star h2
+setState 843 751 26b
+solve a-star h1
+setState 843 751 26b
+solve a-star h2
+setState 154 287 b36
+solve a-star h1
+setState 154 287 b36
+solve a-star h2
+setState 87b 514 326
+solve a-star h1
+setState 87b 514 326
+solve a-star h2
+setState 482 7b6 531
+solve a-star h1
+setState 482 7b6 531
+solve a-star h2
+setState 263 751 84b
+solve a-star h1
+setState 263 751 84b
+solve a-star h2
+setState 621 8b7 354
+solve a-star h1
+setState 621 8b7 354
+solve a-star h2
+setState 843 1b2 567
+solve a-star h1
+setState 843 1b2 567
+solve a-star h2
+setState 367 458 b12
+solve a-star h1
+setState 367 458 b12
+solve a-star h2
+setState 142 6b8 375
+solve a-star h1
+setState 142 6b8 375
+solve a-star h2
+setState 471 352 b68
+solve a-star h1
+setState 471 352 b68
+solve a-star h2
+setState 853 176 b24
+solve a-star h1
+setState 853 176 b24
+solve a-star h2
+setState 531 847 b62
+solve a-star h1
+setState 531 847 b62
+solve a-star h2
+setState 32b 674 158
+solve a-star h1
+setState 32b 674 158
+solve a-star h2
+setState 273 861 45b
+solve a-star h1
+setState 273 861 45b
+solve a-star h2
+setState 514 387 b26
+solve a-star h1
+setState 514 387 b26
+solve a-star h2
+setState 381 4b2 657
+solve a-star h1
+setState 381 4b2 657
+solve a-star h2
+setState 35b 674 821
+solve a-star h1
+setState 35b 674 821
+solve a-star h2
+setState 317 258 64b
+solve a-star h1
+setState 317 258 64b
+solve a-star h2
+setState 736 8b2 541
+solve a-star h1
+setState 736 8b2 541
+solve a-star h2
+setState 378 615 24b
+solve a-star h1
+setState 378 615 24b
+solve a-star h2
+setState 287 356 41b
+solve a-star h1
+setState 287 356 41b
+solve a-star h2
+setState b28 473 561
+solve a-star h1
+setState b28 473 561
+solve a-star h2
+setState 231 7b6 854
+solve a-star h1
+setState 231 7b6 854
+solve a-star h2
+setState 317 548 b62
+solve a-star h1
+setState 317 548 b62
+solve a-star h2
+setState 836 254 b71
+solve a-star h1
+setState 836 254 b71
+solve a-star h2
+setState 736 485 21b
+solve a-star h1
+setState 736 485 21b
+solve a-star h2
+setState 612 8b5 374
+solve a-star h1
+setState 612 8b5 374
+solve a-star h2
+setState 438 275 b61
+solve a-star h1
+setState 438 275 b61
+solve a-star h2
+setState 26b 587 431
+solve a-star h1
+setState 26b 587 431
+solve a-star h2
+setState b84 371 625
+solve a-star h1
+setState b84 371 625
+solve a-star h2
+setState 184 6b7 523
+solve a-star h1
+setState 184 6b7 523
+solve a-star h2
+setState 864 5b3 127
+solve a-star h1
+setState 864 5b3 127
+solve a-star h2
+setState 762 1b3 845
+solve a-star h1
+setState 762 1b3 845
+solve a-star h2
+setState 623 745 b18
+solve a-star h1
+setState 623 745 b18
+solve a-star h2
+setState 278 6b3 514
+solve a-star h1
+setState 278 6b3 514
+solve a-star h2
+setState b26 538 471
+solve a-star h1
+setState b26 538 471
+solve a-star h2
+setState 74b 516 382
+solve a-star h1
+setState 74b 516 382
+solve a-star h2
+setState 315 768 b42
+solve a-star h1
+setState 315 768 b42
+solve a-star h2
+setState 851 6b7 432
+solve a-star h1
+setState 851 6b7 432
+solve a-star h2
+setState 318 4b2 756
+solve a-star h1
+setState 318 4b2 756
+solve a-star h2
+setState 682 541 b73
+solve a-star h1
+setState 682 541 b73
+solve a-star h2
+setState 158 234 b67
+solve a-star h1
+setState 158 234 b67
+solve a-star h2
+setState 75b 238 641
+solve a-star h1
+setState 75b 238 641
+solve a-star h2
+setState b86 712 435
+solve a-star h1
+setState b86 712 435
+solve a-star h2
+setState 267 543 b81
+solve a-star h1
+setState 267 543 b81
+solve a-star h2
+setState b78 642 531
+solve a-star h1
+setState b78 642 531
+solve a-star h2
+setState b58 376 142
+solve a-star h1
+setState b58 376 142
+solve a-star h2
+setState 528 713 b46
+solve a-star h1
+setState 528 713 b46
+solve a-star h2
+setState b28 763 415
+solve a-star h1
+setState b28 763 415
+solve a-star h2
+setState b72 168 435
+solve a-star h1
+setState b72 168 435
+solve a-star h2
+setState b35 814 276
+solve a-star h1
+setState b35 814 276
+solve a-star h2
+setState 832 146 75b
+solve a-star h1
+setState 832 146 75b
+solve a-star h2
+setState 56b 713 842
+solve a-star h1
+setState 56b 713 842
+solve a-star h2
+setState b73 642 518
+solve a-star h1
+setState b73 642 518
+solve a-star h2
+setState 32b 158 764
+solve a-star h1
+setState 32b 158 764
+solve a-star h2
+setState 721 3b6 854
+solve a-star h1
+setState 721 3b6 854
+solve a-star h2
+setState 45b 376 821
+solve a-star h1
+setState 45b 376 821
+solve a-star h2
+setState b24 815 763
+solve a-star h1
+setState b24 815 763
+solve a-star h2
+setState b52 871 346
+solve a-star h1
+setState b52 871 346
+solve a-star h2
+setState 38b 164 572
+solve a-star h1
+setState 38b 164 572
+solve a-star h2
+setState 71b 348 265
+solve a-star h1
+setState 71b 348 265
+solve a-star h2
+setState 516 728 34b
+solve a-star h1
+setState 516 728 34b
+solve a-star h2
+setState 254 371 86b
+solve a-star h1
+setState 254 371 86b
+solve a-star h2
+setState 814 3b2 756
+solve a-star h1
+setState 814 3b2 756
+solve a-star h2
+setState 328 457 16b
+solve a-star h1
+setState 328 457 16b
+solve a-star h2
+setState 67b 135 284
+solve a-star h1
+setState 67b 135 284
+solve a-star h2
+setState b78 563 412
+solve a-star h1
+setState b78 563 412
+solve a-star h2
+setState 817 243 65b
+solve a-star h1
+setState 817 243 65b
+solve a-star h2
+setState b14 625 378
+solve a-star h1
+setState b14 625 378
+solve a-star h2
+setState b84 276 135
+solve a-star h1
+setState b84 276 135
+solve a-star h2
+setState 67b 538 421
+solve a-star h1
+setState 67b 538 421
+solve a-star h2
+setState 421 378 56b
+solve a-star h1
+setState 421 378 56b
+solve a-star h2
+setState 84b 235 761
+solve a-star h1
+setState 84b 235 761
+solve a-star h2
+setState b67 835 124
+solve a-star h1
+setState b67 835 124
+solve a-star h2
+setState b45 128 763
+solve a-star h1
+setState b45 128 763
+solve a-star h2
+setState 314 2b6 785
+solve a-star h1
+setState 314 2b6 785
+solve a-star h2
+setState 365 718 b24
+solve a-star h1
+setState 365 718 b24
+solve a-star h2
+setState 135 2b4 768
+solve a-star h1
+setState 135 2b4 768
+solve a-star h2
+setState b76 541 823
+solve a-star h1
+setState b76 541 823
+solve a-star h2
+setState 173 8b5 462
+solve a-star h1
+setState 173 8b5 462
+solve a-star h2

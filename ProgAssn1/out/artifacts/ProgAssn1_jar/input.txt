@@ -1,0 +1,18 @@
+setState 845 176 23b
+solve a-star h1
+setState 845 176 23b
+solve a-star h1
+setState 845 176 23b
+solve beam 100
+setState 12b 345 678
+solve a-star h1
+setState 12b 345 678
+solve a-star h2
+setState 12b 345 678
+solve beam 100
+setState 864 517 b23
+solve a-star h1
+setState 864 517 b23
+solve a-star h2
+setState 864 517 b23
+solve beam 1000

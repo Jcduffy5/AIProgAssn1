@@ -1,0 +1,230 @@
+setState b12 345 678
+maxNodes 50
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+maxNodes 100
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+maxNodes 500
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+maxNodes 1000
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+maxNodes 2000
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+maxNodes 3000
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+maxNodes 5000
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+maxNodes 10000
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+maxNodes 20000
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+maxNodes 50000
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+maxNodes 100000
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2
+randomizeState 1000
+solve a-star h2

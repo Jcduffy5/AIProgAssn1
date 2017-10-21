@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProgAssn1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProgAssn1_jar</output-path>
+    <root id="archive" name="ProgAssn1.jar">
+      <element id="module-output" name="ProgAssn1" />
+    </root>
+  </artifact>
+</component>
